@@ -1,0 +1,27 @@
+{
+  "name": "bothihi",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingnoi/bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "api"
+  ],
+  "author": "peera mahamad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingnoi/bot/issues"
+  },
+  "homepage": "https://github.com/ingnoi/bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
