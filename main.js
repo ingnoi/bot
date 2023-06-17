@@ -9,7 +9,7 @@ const client = new discord.Client({
         discord.GatewayIntentBits.DirectMessages,
     ]
 });
-client.login('MTExOTY5MzI4NjU5NzIxNDI1OQ.G668Rk.OGWD9k5wqvBVzmQJUaHuGYZGkRzWdl0yTlEOYg');
+client.login();
 client.on("ready", () => {
     console.log(`${client.user.username} พร้อมแล้วไอสวะ`);
 });
